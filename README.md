@@ -7,8 +7,9 @@ This project uses an Arduino Uno as it has an on-board voltage regulator that wo
 
 The display is a slimline 0.91 inch 128 x 32 pixel OLED display. This is fixed into the display bezel using a small amount of epoxy resin from the rear.
 
-Two version are available:
-* LACK_thermometer: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Uses the native font from the library.
-* LACK_thermometer_Nixie: &nbsp; Uses a vector drawn Nixie style font. 
+Three version are available:
+* LACK_thermometer: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Uses the native font from the library.
+* LACK_thermometer_Nixie: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Uses a vector drawn Nixie style font. 
+* LACK_thermometer_Numitron: &nbsp; &nbsp; Uses a vector drawn Numitron style font. 
 
 Further details and 3D printed bezel are available from: https://www.prusaprinters.org/prints/41690-thermometer-for-lack-enclosure-arduino
